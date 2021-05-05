@@ -1,5 +1,5 @@
 /**
- * Unit tests for NumberWithUnits exercise
+ * Unit tests for Pandemic exercise
  * AUTHOR: Mayan Bashan
  * Date: 2021-05
  */
